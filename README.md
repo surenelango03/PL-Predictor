@@ -80,6 +80,4 @@ pip install pandas requests beautifulsoup4 scikit-learn
 2. Open and run `prediction.ipynb` using Jupyter Notebook or VS Code.
 3. Modify the model or features as needed for improved performance.
 
-## 📝 License
 
-This project is open-source and available under the [MIT License](LICENSE).
