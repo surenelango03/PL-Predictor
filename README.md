@@ -46,12 +46,15 @@ The notebook outputs:
 ```bash
 pandas
 scikit-learn
+requests
+beautifulsoup4
+numpy
 ```
 
 You can install them with:
 
 ```bash
-pip install pandas scikit-learn
+pip install pandas requests beautifulsoup4 scikit-learn numpy
 ```
 
 ## 🚀 How to Run
